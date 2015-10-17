@@ -1,8 +1,8 @@
-# jekyll-grunt-template
+# Jekyll/Grunt template
 
 ## Starting point for Jekyll Sites
 
-- Include NPM and Bower
+- Includes NPM and Bower
 - Grunt
 - Bootstrap 4-alpha
 
@@ -13,7 +13,7 @@
 
 ## TODO
 
-- Add Grunt tasks
-  - BrowserSync/LiveReload
-  - esLint
-  - imagemin, htmlmin, etc.
+- Add Grunt tasks:
+ - BrowserSync/LiveReload
+ - esLint
+ - imagemin, htmlmin, etc.

@@ -1,5 +1,9 @@
 .home {
+  &__item-wrapper {
+    background-color: $white;
+  }
+
   &__item {
-    min-height: 250px;
+    
   }
 }

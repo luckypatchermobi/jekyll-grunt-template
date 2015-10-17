@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
+title:  "Qux!"
 date:   2015-10-17 16:39:28
 categories: jekyll update
 ---

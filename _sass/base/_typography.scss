@@ -18,6 +18,12 @@ h6 {
   margin: 0 0 $small-spacing;
 }
 
+@for $i from 1 through 6 {
+  h#{$i} {
+    font-size: modular-scale(6 - $i);
+  }
+}
+
 p {
   margin: 0 0 $small-spacing;
 }

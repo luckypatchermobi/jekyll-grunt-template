@@ -12,3 +12,9 @@ github_username:  jekyll
 
 # Build settings
 markdown: kramdown
+
+# Exclude list
+exclude: ['node_modules', ‘css’, ‘_scss’]
+
+# Don't erase CSS when re-building
+keep_files: ['_site/css']

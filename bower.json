@@ -2,6 +2,8 @@
   "name": "portfolio-site",
   "private": true,
   "dependencies": {
-    "bootstrap": "~4.0.0"
+    "bootstrap": "~4.0.0",
+    "normalize-scss": "~3.0.3",
+    "bourbon": "~4.2.6"
   }
 }

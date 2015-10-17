@@ -37,7 +37,9 @@ module.exports = function(grunt) {
         sassDir: '_sass',
         cssDir: '_site/css',
         includePaths: [
-          './bower_components/bootstrap/scss'
+          './bower_components/normalize-scss',
+          './bower_components/bootstrap/scss',
+          './bower_components/bourbon/app/assets/stylesheets'
         ]
       },
       build: {

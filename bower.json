@@ -1,0 +1,7 @@
+{
+  "name": "portfolio-site",
+  "private": true,
+  "dependencies": {
+    "bootstrap": "~4.0.0"
+  }
+}

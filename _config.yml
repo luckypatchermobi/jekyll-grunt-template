@@ -14,7 +14,15 @@ github_username:  jekyll
 markdown: kramdown
 
 # Exclude list
-exclude: ['node_modules', ‘css’, ‘_scss’]
+exclude: [
+  'node_modules',
+  'bower_components',
+  'css',
+  '_scss',
+  'package.json',
+  'bower.json',
+  'Gruntfile.js'
+]
 
 # Don't erase CSS when re-building
 keep_files: ['_site/css']

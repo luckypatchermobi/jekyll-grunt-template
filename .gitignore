@@ -1,4 +1,4 @@
 _site
 .sass-cache
-note_modules
+node_modules
 bower_components

@@ -21,7 +21,8 @@ exclude: [
   '_scss',
   'package.json',
   'bower.json',
-  'Gruntfile.js'
+  'Gruntfile.js',
+  'README.md'
 ]
 
 # Don't erase CSS when re-building

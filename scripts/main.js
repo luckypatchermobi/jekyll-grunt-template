@@ -1,6 +1,5 @@
-var $welcomeHeader = $('#js-welcome');
-
 function pickHeader() {
+  var $welcomeHeader = $('#js-welcome');
   var arr = [
     'salut',
     'hallo',
@@ -19,8 +18,8 @@ function pickHeader() {
     'hujambo',
     'olá'
   ];
-
   var randLang = arr[Math.floor(Math.random() * arr.length)];
+
   $welcomeHeader.text(randLang);
 }
 
